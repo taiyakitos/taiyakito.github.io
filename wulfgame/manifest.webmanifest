@@ -1,0 +1,12 @@
+{
+  "name": "Wulf Ruins A Wedding",
+  "short_name": "Wulf Ruins A Wedding",
+  "id": "com.taiyakito.wulfgame",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
