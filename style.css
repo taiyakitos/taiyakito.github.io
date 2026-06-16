@@ -1,3 +1,28 @@
+body {
+  font-family: "Courier New";
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-size: cover; /* Scale the image to cover the entire container */
+  background-attachment: fixed; /* Fix the image in place while scrolling */
+  background-color: #0000ff; /* Fallback color if the image can't load */
+}
+
+p { text-align: center; font-size: 30px; margin-left: 20px;}
+
+a { font-size: 40px; margin-left: 60px; margin-bottom: 60px;}
+
+.titlehead {
+  font-size: 70px; color: #ffffdd; text-align: Center; ;
+}
+
+.fullpage { width: 80%; margin-left: 10%; margin-right: 10%; margin-top: 2%; display: block;}
+
+div { width: 80%; margin-left:10%; margin-right: 10%; display: block; font-family: "Courier New";
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-size: cover; /* Scale the image to cover the entire container */
+  background-attachment: fixed ; /* Fix the image in place while scrolling */
+  background-color: #ffffff; /* Fallback color if the image can't load */
+}
+
 .myButton {
 	background:linear-gradient(to bottom, #79bbff 5%, #0000ff 100%);
 	background-color:#79bbff;
