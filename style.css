@@ -11,7 +11,7 @@ p { text-align: center; font-size: 30px; margin-left: 20px;}
 a { font-size: 40px; margin-left: 60px; margin-bottom: 60px;}
 
 .titlehead {
-  font-size: 70px; color: #ffffdd; text-align: Center; ;
+  font-size: 70px; color: #f0f0f9; text-align: Center; -webkit-text-stroke: 2px #0011f5 ;
 }
 
 .fullpage { width: 80%; margin-left: 10%; margin-right: 10%; margin-top: 2%; display: block;}
