@@ -4,7 +4,7 @@ body {
   background-size: cover; /* Scale the image to cover the entire container */
   background-attachment: fixed; /* Fix the image in place while scrolling */
   background-color: #7d7ded; /* Fallback color if the image can't load */
-  background-image: linear-gradient(to bottom, #1e3c72, #d2af66);
+  background-image: linear-gradient(to bottom, #1e3c72, #ddddf6);
 }
 
 p { text-align: center; font-size: 30px; margin-left: 20px;}
@@ -33,7 +33,7 @@ div img { max-width: 100%; height: auto; }
 	border:1px solid #3409f4;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
+	color:#eeeeff;
 	font-family:Courier New;
 	font-size:28px;
 	font-weight:bold;
