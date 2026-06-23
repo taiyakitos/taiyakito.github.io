@@ -4,6 +4,7 @@ body {
   background-size: cover; /* Scale the image to cover the entire container */
   background-attachment: fixed; /* Fix the image in place while scrolling */
   background-color: #7d7ded; /* Fallback color if the image can't load */
+  background-image: linear-gradient(135deg, #1e3c72, #f5af19);
 }
 
 p { text-align: center; font-size: 30px; margin-left: 20px;}
