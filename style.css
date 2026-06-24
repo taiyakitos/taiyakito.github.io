@@ -39,7 +39,7 @@ div img { max-width: 100%; height: auto; }
 	font-weight:bold;
 	padding:12px 44px;
 	text-decoration:none;
-	text-shadow:6px 2px 0px #528ecc;
+	/*text-shadow:6px 2px 0px #528ecc;*/
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #0000ff 5%, #79bbff 100%);
