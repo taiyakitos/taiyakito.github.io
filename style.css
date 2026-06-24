@@ -33,7 +33,7 @@ div img { max-width: 100%; height: auto; }
 	border:1px solid #3409f4;
 	display:inline-block;
 	cursor:pointer;
-	color:#eeeeff;
+	color:#0000ff;
 	font-family:Courier New;
 	font-size:28px;
 	font-weight:bold;
@@ -43,6 +43,7 @@ div img { max-width: 100%; height: auto; }
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #0000ff 5%, #79bbff 100%);
+	color: #eeeeff ;
 	background-color:#0000ff;
 }
 .myButton:active {
